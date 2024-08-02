@@ -18,6 +18,9 @@ Data Modeling: Data modeling was performed in Power BI to establish relationship
 
 ![Screenshot 2024-07-12 141852](https://github.com/user-attachments/assets/fbbe9fc7-d1a8-48a6-be32-837f49acae32)
 
+![Screenshot 2024-07-12 141810](https://github.com/user-attachments/assets/cdc21c86-5378-4a6d-ad11-3dce62b5accf)
+
+
 **Hypothesis:**
 Certain product categories will show significantly higher sales compared to others.
 A small number of products will account for a large portion of sales and profits.
